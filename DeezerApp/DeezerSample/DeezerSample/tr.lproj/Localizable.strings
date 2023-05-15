@@ -1,0 +1,23 @@
+/* 
+  localize.strings
+  DeezerSample
+
+  Created by Sedat on 15.05.2023.
+  
+*/
+// MARK: - Home Page
+"GENRE_LIST_TITLE" = "Türler";
+"ALERT_TITLE" = "Uyarı";
+"ALERT_CANCEL_BUTTON_TITLE" = "Kapat";
+
+// MARK: - Artists Page
+"ARTIST_LIST_TITLE" = "Sanatçılar";
+
+
+// MARK: - Artist Detail Page
+
+"INDEX_ALBUMS" = "Albümler";
+"INDEX_RELATED_ARTISTS" = "İlgili Sanatçılar";
+
+// MARK: - Favorites Page
+"FAVORITES_PAGE_VC" = "Favoriler";
