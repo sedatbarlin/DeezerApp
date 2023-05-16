@@ -7,6 +7,7 @@
 - DeezerAPI
 - Kingfisher
 - UIKit
+- CoreData
 - Collection View Compositional Layout
 - MediaPlayer (AVAudioPlayer) 
 - UIActivityIndicatorView
